@@ -9,14 +9,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom_functions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom_functions/student_grades_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom_functions/temperature_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/laboratory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_string_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_student_grades_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main/laboratory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#33#90#0" expanded="true" />
               </folding>
@@ -142,9 +135,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
@@ -202,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_string_methods">
+  <component name="RunManager" selected="Python.laboratory">
     <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Libraries" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,8 +310,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_string_methods" />
         <item itemvalue="Python.laboratory" />
+        <item itemvalue="Python.test_string_methods" />
         <item itemvalue="Python.student_grades_methods" />
         <item itemvalue="Python.temperature_methods" />
         <item itemvalue="Python.index" />
@@ -381,15 +373,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="0" width="1386" height="788" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25297618" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25222552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3927987" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36641222" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39770868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -462,13 +454,6 @@
     <entry file="file://$PROJECT_DIR$/custom_functions/student_grades_methods.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom_functions/temperature_methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-305">
-          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test_student_grades_methods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -489,10 +474,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/custom_functions/temperature_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-305">
+          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main/laboratory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#33#90#0" expanded="true" />
           </folding>
